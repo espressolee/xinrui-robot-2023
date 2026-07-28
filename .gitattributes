@@ -1,0 +1,4 @@
+# The sketches are a 2023 artifact. Preserve their bytes exactly --
+# including the original CRLF endings from the Arduino IDE. The README
+# claims they are unmodified, so git must not normalise them.
+*.ino -text
