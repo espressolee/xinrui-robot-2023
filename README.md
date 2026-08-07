@@ -13,8 +13,17 @@ Third-party record, published by the university:
 - [Match report, 17 May 2023](https://today.hit.edu.cn/article/2023/05/17/103860) (includes the team roster)
 - [Contest summary, 19 May 2023](https://today.hit.edu.cn/article/2023/05/19/103945)
 
-This repository is the source code, **unmodified**, plus an honest note on what
-it is and what it is not.
+This repository is the source code, **author-attested unmodified**, plus an
+honest note on what it is and what it is not.
+
+To be exact about what that attestation rests on: this repository was created in
+2026 with a single root commit, so **its git history proves nothing about 2023**.
+It shows only that these bytes are unaltered since publication. The competition
+result is third-party verifiable through the two university articles below; the
+identity of this source as the 2023 artifact is my word, corroborated only
+circumstantially by the `_ABVAR_*` ArduBlock naming and the preserved CRLF line
+endings. There is no chain of custody linking these bytes to the robot that
+competed, and the articles say nothing about which code ran.
 
 ---
 
